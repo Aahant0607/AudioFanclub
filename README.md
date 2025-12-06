@@ -111,7 +111,14 @@ plot_speaker_contributions(labels)
 ## Requirements
 
 - Python (>=3.8)
-- `librosa`, `scikit-learn`, `numpy`, `matplotlib` *(see requirements.txt for full list)*
+- numpy
+- librosa
+- matplotlib
+- scipy
+- scikit-learn
+- pandas
+- plotly
+- seaborn
 
 ---
 
