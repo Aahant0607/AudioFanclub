@@ -149,9 +149,10 @@ Inspired by academic work in audio DSP, machine learning, and speaker diarizatio
 
 - Aahant Kumar
 - Aryan Malhotra
-- Priya Desai
-- Rohan Kapoor
-- Srishti Singh
+- Aasif Mhd
+- Anand Singh
+- Arkajyoti  Deb
+- Atul Yadav
 
 ---
 
