@@ -154,12 +154,12 @@ Inspired by academic work in audio DSP, machine learning, and speaker diarizatio
 
 ## Contributors
 
-- Aahant Kumar
-- Aryan Malhotra
-- Aasif Mhd
-- Anand Singh
-- Arkajyoti  Deb
-- Atul Yadav
+- Aahant Kumar (24/EC/001)
+- Aasif Mohd (24/EC/006)
+- Anand Singh (24/EC/030)
+- Arkajyoti  Deb (24/EC/048)
+- Aryan Malhotra (24/EC/053)
+- Atul Yadav (24/EC/056)
 
 ---
 
